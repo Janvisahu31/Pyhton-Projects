@@ -8,6 +8,7 @@ print("1.Madlibs")
 print("2.Guess the number Computer")
 print("3..Guess the number USER")
 print("4.Rock paper Scissors")
+print("5.Hangman")
 
 
 
@@ -146,4 +147,6 @@ def hangman():
 hangman()
 
 
+
+print("Binary Search")
 
