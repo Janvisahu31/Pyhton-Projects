@@ -31,7 +31,7 @@ root.geometry("550x700")
 root.minsize(550,700)
 root.maxsize(550,700)
 root.title("Calculator")
-root.wm_iconbitmap("calc.png")
+
 
 strval=StringVar()
 strval.set("")
